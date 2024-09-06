@@ -23,6 +23,7 @@
     "babel-jest": "^23.6.0",
     "bad-words": "^3.0.4",
     "bcryptjs": "^2.4.3",
+    "client": "file:client",
     "cloudinary": "^1.29.1",
     "config": "^3.3.6",
     "cors": "^2.8.5",
@@ -51,8 +52,7 @@
     "request": "^2.88.2",
     "socket.io": "^4.5.0",
     "uuid4": "^2.0.2",
-    "xoauth2": "^1.2.0",
-    "react-scripts": "^5.0.1"
+    "xoauth2": "^1.2.0"
   },
   "devDependencies": {
     "concurrently": "^6.0.0",
